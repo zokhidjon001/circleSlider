@@ -1,5 +1,5 @@
 
-	let i=2;
+	var i=2;
     $(document).ready(function(){
         var radius = 200;
         var fields = $('.itemDot');
@@ -66,5 +66,4 @@
             }, 5000);
         
     });
-    
     
